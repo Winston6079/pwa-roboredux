@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Winston6079/pwa-roboredux/static/css/main.7c57a7aa.chunk.css",
+    "main.js": "/Winston6079/pwa-roboredux/static/js/main.2d4e71f3.chunk.js",
+    "main.js.map": "/Winston6079/pwa-roboredux/static/js/main.2d4e71f3.chunk.js.map",
+    "runtime-main.js": "/Winston6079/pwa-roboredux/static/js/runtime-main.92655871.js",
+    "runtime-main.js.map": "/Winston6079/pwa-roboredux/static/js/runtime-main.92655871.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Winston6079/pwa-roboredux/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.277841f7.chunk.js": "/Winston6079/pwa-roboredux/static/js/2.277841f7.chunk.js",
+    "static/js/2.277841f7.chunk.js.map": "/Winston6079/pwa-roboredux/static/js/2.277841f7.chunk.js.map",
+    "index.html": "/Winston6079/pwa-roboredux/index.html",
+    "precache-manifest.10b71399b2cb0944469d8a3b7a70076b.js": "/Winston6079/pwa-roboredux/precache-manifest.10b71399b2cb0944469d8a3b7a70076b.js",
+    "service-worker.js": "/Winston6079/pwa-roboredux/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Winston6079/pwa-roboredux/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.7c57a7aa.chunk.css.map": "/Winston6079/pwa-roboredux/static/css/main.7c57a7aa.chunk.css.map",
+    "static/js/2.277841f7.chunk.js.LICENSE.txt": "/Winston6079/pwa-roboredux/static/js/2.277841f7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Winston6079/pwa-roboredux/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92655871.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.277841f7.chunk.js",
+    "static/css/main.7c57a7aa.chunk.css",
+    "static/js/main.2d4e71f3.chunk.js"
+  ]
+}
