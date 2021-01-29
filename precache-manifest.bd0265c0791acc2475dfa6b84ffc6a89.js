@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "812ad8ad6ccac9b59c55a2908ba0e025",
+    "revision": "f090b797562f5deb01965775a939c791",
     "url": "/pwa-roboredux/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pwa-roboredux/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "c8948b7b1bc9905564ab",
-    "url": "/pwa-roboredux/static/css/main.888bcc31.chunk.css"
+    "revision": "781d9dd187e29628e767",
+    "url": "/pwa-roboredux/static/css/main.5cc68f5b.chunk.css"
   },
   {
     "revision": "b09d20b975196d7d8093",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pwa-roboredux/static/js/2.277841f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8948b7b1bc9905564ab",
-    "url": "/pwa-roboredux/static/js/main.ed443214.chunk.js"
+    "revision": "781d9dd187e29628e767",
+    "url": "/pwa-roboredux/static/js/main.9291dc8c.chunk.js"
   },
   {
     "revision": "97c91130e6c256a59fb7",
